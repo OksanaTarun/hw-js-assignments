@@ -58,3 +58,18 @@ The Logical OR assignment operator is used between two values. If the first valu
 > ??=  
 The Nullish coalescing assignment operator is used between two values. If the first value is undefined or null, the second value is assigned.
 
+## Increment
+
+The increment operator (++) increments (adds one to) its operand and returns the value before or after the increment, depending on where the operator is placed.
+
+If used postfix, with operator after operand (for example, x++), the increment operator increments and returns the value before incrementing.
+
+If used prefix, with operator before operand (for example, ++x), the increment operator increments and returns the value after incrementing.
+
+## Decrement
+
+The decrement operator (--) decrements (subtracts one from) its operand and returns the value before or after the decrement, depending on where the operator is placed.
+
+If used postfix, with operator after operand (for example, x--), the decrement operator decrements and returns the value before decrementing.
+
+If used prefix, with operator before operand (for example, --x), the decrement operator decrements and returns the value after decrementing.
